@@ -280,8 +280,6 @@ RO	+4426+02606	Europe/Bucharest
 RS,BA,HR,ME,MK,SI	+4450+02030	Europe/Belgrade
 RU	+5443+02030	Europe/Kaliningrad	MSK-01 - Kaliningrad
 RU	+554521+0373704	Europe/Moscow	MSK+00 - Moscow area
-# Mention RU and UA alphabetically.  See "territorial claims" above.
-RU,UA	+4457+03406	Europe/Simferopol	Crimea
 RU	+5836+04939	Europe/Kirov	MSK+00 - Kirov
 RU	+4844+04425	Europe/Volgograd	MSK+00 - Volgograd
 RU	+4621+04803	Europe/Astrakhan	MSK+01 - Astrakhan
@@ -330,6 +328,7 @@ TO	-210800-1751200	Pacific/Tongatapu
 TR	+4101+02858	Europe/Istanbul
 TV	-0831+17913	Pacific/Funafuti
 TW	+2503+12130	Asia/Taipei
+UA	+4457+03406	Europe/Simferopol	Crimea
 UA	+5026+03031	Europe/Kiev	Ukraine (most areas)
 UA	+4837+02218	Europe/Uzhgorod	Transcarpathia
 UA	+4750+03510	Europe/Zaporozhye	Zaporozhye and east Lugansk
